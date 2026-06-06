@@ -30,15 +30,39 @@ An end-to-end Power BI Business Intelligence project designed to analyze HSBC cr
 
 ### Transaction Dashboard
 
-![Transaction Dashboard](download.png)
+![Transaction Dashboard](transaction-dashboard.png)
 
-### Customer Dashboard
+**Key Insights**
+- Total Revenue: $57M
+- Total Transaction Amount: $45.5M
+- Total Interest Earned: $7.98M
+- Total Transactions: 667K
+- Revenue breakdown by card category, education level, expense type, and payment method.
 
-![Customer Dashboard](download%202.png)
+---
 
-### Weekly Performance Dashboard
+### Expense Type Analysis Dashboard
 
-![Weekly Dashboard](download%203.png)
+![Expense Type Analysis](Expense-type.png)
+
+**Key Insights**
+- Bills generate the highest revenue ($14M).
+- Entertainment and Fuel are the next highest contributors.
+- Businessman and White-collar segments drive significant revenue.
+- Quarterly revenue and transaction trends are tracked.
+
+---
+
+### Activation Rate & Weekly Performance Dashboard
+
+![Activation Rate Dashboard](activation-rate.png)
+
+**Key Insights**
+- Weekly Revenue Growth: 35.04%
+- Customer Growth: 12.80%
+- Income Growth: 18.23%
+- Transaction Count Growth: 3.39%
+- Week-over-week business performance monitoring.
 
 ---
 
