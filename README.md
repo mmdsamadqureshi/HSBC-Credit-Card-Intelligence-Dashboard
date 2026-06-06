@@ -55,7 +55,7 @@ An end-to-end Power BI Business Intelligence project designed to analyze HSBC cr
 
 ### Activation Rate & Weekly Performance Dashboard
 
-![Activation Rate Dashboard](activation-rate.png)
+![Activation Rate Dashboard](Activation-Rate.png)
 
 **Key Insights**
 - Weekly Revenue Growth: 35.04%
