@@ -208,4 +208,4 @@ This dashboard enables stakeholders to:
 **Samad Qureshi**
 
 * GitHub: https://github.com/mmdsamadqureshi
-* LinkedIn: Add your LinkedIn profile link here
+* LinkedIn: https://www.linkedin.com/in/muhammadsamadqureshi
